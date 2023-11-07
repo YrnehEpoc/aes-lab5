@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "zephyr/soc/arm/st_stm32/stm32f0",
+		"source" : "/home/henco/.platformio/packages/framework-zephyr/soc/arm/st_stm32/stm32f0"
+	}
+}
